@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Ashrakat Helmi Elkady
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning webb development
-
+- 🌱 I’m currently learning web development
+ my skills:
+ HTML
+ CSS
+ JavaScript
+ TyprSCript
+ Angular
+ RestFul API
 
 <!---
 Ashrakat-Helmi/Ashrakat-Helmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
